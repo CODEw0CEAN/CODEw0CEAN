@@ -1,12 +1,14 @@
 <h1 align="center">Hi 👋, I'm OCEAN</h1>
-<h3 align="center">Studying in the field of computer science at Quinsigamond Community College (QCC).</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codew0cean&label=Profile%20views&color=0e75b6&style=flat" alt="codew0cean" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codew0cean" alt="codew0cean" /></a> </p>
 
+- 🌱 I’m currently learning **QT Framework**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://instagram.com/oceanrai12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="oceanrai12" height="30" width="40" /></a>
+<a href="https://discord.gg/ocean_56179" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ocean_56179" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
